@@ -1,7 +1,6 @@
-.container {
-    list-style: none;
-    padding: 20px;
-    margin: 20px;
-    background: #999;
-    border: 1px dashed #666;
+.list {
+	background: #BDBDBD;
+	padding: 0px;
+	margin: 0px;
+	border: 1px dashed #757575;
 }
